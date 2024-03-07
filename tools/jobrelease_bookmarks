@@ -1,0 +1,143 @@
+{
+   "checksum": "283e93db523f7f730e912606d465c82c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13354241503000000",
+            "date_last_used": "13354304463370199",
+            "guid": "16b666bb-0162-4f42-8fd9-cadfb24f4604",
+            "id": "5",
+            "name": "INFOR EQ",
+            "type": "url",
+            "url": "https://mingle-portal.inforcloudsuite.com/SENNECA_PRD/"
+         }, {
+            "date_added": "13345924252000000",
+            "date_last_used": "0",
+            "guid": "678ddc58-9832-4b55-92fa-26e4ff6bb234",
+            "id": "6",
+            "name": "Outlook Mail",
+            "type": "url",
+            "url": "https://outlook.office.com/mail/"
+         }, {
+            "date_added": "13354240902000000",
+            "date_last_used": "13354305022114597",
+            "guid": "9123264d-e015-4a82-89fd-cc39aa88e07d",
+            "id": "7",
+            "name": "JobAssign",
+            "type": "url",
+            "url": "https://hmf-elmo.senneca.com/app/job_assign"
+         }, {
+            "date_added": "13354240957000000",
+            "date_last_used": "13354305201276915",
+            "guid": "4a0eaea2-649a-434c-a927-2f6d0477636c",
+            "id": "8",
+            "name": "JobRelease",
+            "type": "url",
+            "url": "https://hmf-elmo.senneca.com/app/job_assign/job_release"
+         }, {
+            "date_added": "13354304572071875",
+            "date_last_used": "13354305144781274",
+            "guid": "08082ed4-8176-4c84-ba6c-0a6924fabafd",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "LabelPrint",
+            "type": "url",
+            "url": "https://hmf-elmo.senneca.com/app/job_assign/label_print"
+         }, {
+            "date_added": "13345924135000000",
+            "date_last_used": "0",
+            "guid": "ec2ad887-e2c6-4716-984e-f6a6c15b6a53",
+            "id": "9",
+            "name": "HMFReports - Report Manager",
+            "type": "url",
+            "url": "http://hmf-db.hmfexpress.local/Reports/Pages/Folder.aspx?ItemPath=%2fHMFReports&ViewMode=List"
+         }, {
+            "date_added": "13345924211000000",
+            "date_last_used": "0",
+            "guid": "2934ecbd-42bb-4a5b-84b9-9ec4e09530b7",
+            "id": "10",
+            "name": "VoIPStudio",
+            "type": "url",
+            "url": "https://voipstudio.com/"
+         }, {
+            "date_added": "13345924099000000",
+            "date_last_used": "0",
+            "guid": "38319eee-f2b1-41c9-bf8f-d8b789012861",
+            "id": "11",
+            "name": "+ Cornerstone OnDemand +",
+            "type": "url",
+            "url": "https://senneca.csod.com/"
+         }, {
+            "date_added": "13345926094000000",
+            "date_last_used": "0",
+            "guid": "3a3aaa34-b139-42af-a962-e6658ae1eba7",
+            "id": "12",
+            "name": "SharePoint",
+            "type": "url",
+            "url": "https://sennecaholdings.sharepoint.com/_layouts/15/sharepoint.aspx"
+         }, {
+            "date_added": "13345926055000000",
+            "date_last_used": "13354304465925087",
+            "guid": "40b72c76-7818-4bc4-be5c-59c8f3e0c8c5",
+            "id": "13",
+            "name": "Power BI",
+            "type": "url",
+            "url": "https://app.powerbi.com/home?experience=power-bi"
+         }, {
+            "date_added": "13345924065000000",
+            "date_last_used": "13354304468444418",
+            "guid": "a06de101-b3a9-46a3-9bbd-326dfe722525",
+            "id": "14",
+            "name": "HMF Express: hollow metal doors and frames, shipped quick!",
+            "type": "url",
+            "url": "https://www.hmfexpress.com/"
+         }, {
+            "date_added": "13345924188000000",
+            "date_last_used": "13354304469938892",
+            "guid": "5cc7f4b6-8f43-47fb-8af8-fa17fc6f5a3d",
+            "id": "15",
+            "name": "Senneca Holdings | Specialty Door Market",
+            "type": "url",
+            "url": "https://www.senneca.com/"
+         }, {
+            "date_added": "13345924156000000",
+            "date_last_used": "13354304471079686",
+            "guid": "45436130-fc06-4dcd-a3d0-c31efe175ab4",
+            "id": "16",
+            "name": "Paycor",
+            "type": "url",
+            "url": "https://www.paycor.com/"
+         } ],
+         "date_added": "13354248268597020",
+         "date_last_used": "0",
+         "date_modified": "13354304578156957",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13354248268597023",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13354248268597023",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

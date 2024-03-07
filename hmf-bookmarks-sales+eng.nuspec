@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>hmf-bookmarks-eng-jobrelease</id>
+    <version>1.0.0</version>
+    <title>HMF Bookmarks: Engineering + Job Release</title>
+    <authors>Brendink Morank</authors>
+    <!-- <projectUrl>https://github.com/bdanmo/hmf-bookmarks-sales-eng</projectUrl> -->
+    <tags>hmf-bookmarks-eng-jobrelease, engineer, engineering, jobrelease, production, management, job, release, jobrelease, job-release, hmf, bookmarks</tags>
+    <summary>Bookmarks for cad/cam, job release, and production management</summary>
+    <description>
+      Moves a bookmraks json-like file to c:\programdata\chocotemp for automated transfer to user's google profile, and moves a bookmarks html to the public desktop for public loading, if needed
+    </description>
+    <releaseNotes>INITIAL RELEASE</releaseNotes>
+    <!--<dependencies>
+      <dependency id="" version="__MINIMUM_VERSION__" />
+      <dependency id="" version="[__EXACT_VERSION__]" />
+      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_INCLUSIVE]" />
+      <dependency id="" version="[_MIN_VERSION_INCLUSIVE, MAX_VERSION_EXCLUSIVE)" />
+      <dependency id="" />
+      <dependency id="chocolatey-core.extension" version="1.1.0" />
+    </dependencies>-->
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
