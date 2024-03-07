@@ -6,7 +6,7 @@
     <version>1.0.0</version>
     <title>HMF Bookmarks: Engineering + Job Release</title>
     <authors>Brendink Morank</authors>
-    <!-- <projectUrl>https://github.com/bdanmo/hmf-bookmarks-sales-eng</projectUrl> -->
+    <projectUrl>https://github.com/bdanmo/hmf-bookmarks-eng-jobrelease</projectUrl>
     <tags>hmf-bookmarks-eng-jobrelease, engineer, engineering, jobrelease, production, management, job, release, jobrelease, job-release, hmf, bookmarks</tags>
     <summary>Bookmarks for cad/cam, job release, and production management</summary>
     <description>
